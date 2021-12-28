@@ -1,0 +1,1 @@
+// export const M_SET_ALL_ORGANIZATION = "M_SET_ALL_ORGANIZATION";
